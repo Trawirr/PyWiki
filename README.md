@@ -20,3 +20,5 @@ There is possibility to train bot by letting it play game n times and remember s
 'better' mode is usually about 5-40 times faster than 'random' mode.
 
 This is time comparison of these two methods below:
+![plot1](https://github.com/Trawirr/PyWiki/blob/main/myplot.png)
+![plot2](https://github.com/Trawirr/PyWiki/blob/main/myplot2.png)
