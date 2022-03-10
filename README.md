@@ -2,7 +2,7 @@
 A bot written in Python for wikipedia game of starting with a random wiki article and reaching a given one via hyperlinks
 
 # Interesting results
-Reaching 'Adolf Hitler' in 7 moves starting with Belgian Anime coonvention:
+Reaching 'Adolf Hitler' in 7 moves starting with Belgian Anime convention:
 1. Fantasy Anime Comics Toys Space - 19 links
 2. MCM London Comic Con - 368 links
 3. Elizabeth Maxwell - 82 links
